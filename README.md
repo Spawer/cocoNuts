@@ -2,9 +2,7 @@
 Premier commit en dev !
 Commit A
 Commit B
-Commit C
-Premier commit en master !
-Commit A
+Comdsggdmit C
 Commit B
 Commit C
 Commit X
