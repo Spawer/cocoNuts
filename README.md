@@ -1,2 +1,2 @@
 # cocoNuts
-rien à dire ou à faire
+Premier commit en master !
